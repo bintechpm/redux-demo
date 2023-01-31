@@ -1,0 +1,7 @@
+{
+  "id": 1234567890,
+  "name": "Lam Vo",
+  "email": "lamvo@capgemini.com",
+  "roles": ["ROLE_ADMIN"],
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMzQ1Njc4OTAiLCJuYW1lIjoiTGFtIFZvIiwicm9sZSI6ImFkbWluIn0.bYispBxCudBTq6zqU1ptknsVJuDbgNiJcn07ZbvvZmw"
+}
